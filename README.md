@@ -1,1 +1,9 @@
-This repo includes all supporting files associated with my thesis research.  The thesis is titled Cooperative Decentralized Intersection Collision Avoidance Using Extended Kalman Filtering and can be found at <https://vtechworks.lib.vt.edu/items/f5ef4e41-b4ca-4a1d-84b5-8a4581c4c062>.  The repo also includes supporting files associated with a conference paper and poster I presented at the IEEE Intelligent Vehicles Symposium 2009 at Xian, China.
+This repo includes all supporting files associated with my thesis research.  The thesis is titled Cooperative Decentralized Intersection Collision Avoidance Using Extended Kalman Filtering and can be found at <https://vtechworks.lib.vt.edu/items/f5ef4e41-b4ca-4a1d-84b5-8a4581c4c062>.
+
+The repo includes:
+1) My thesis
+    - MATLAB code to generate the figures and run simulations
+    - some test MATLAB code related to concepts covered in my research
+2) An associated conference paper + poster I presented at the IEEE Intelligent Vehicles Symposium 2009 at Xian, China
+3) Powerpoint presentation I used for my thesis defense
+4) Research Notes
